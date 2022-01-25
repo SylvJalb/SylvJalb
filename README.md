@@ -1,18 +1,14 @@
 <h1 align="center">
-Hi there 👋
+Hi there 👋 I'm Sylvain Jalbert
 </h1>
-<h2 align="center">
-👋 I'm Sylvain Jalbert
-</h2>
 
-
-🎓 I'm a French developer and I will be graduating from engineering school this year.    
-💻 I work on projects in multiple fields: AI, Web Development (fullstack), Robotics, Electronics...      
+🎓 I will be graduating from my engineering school this year.    
+💻 I work on projects in several fields: AI, Web Development (fullstack), Robotics, Electronics...      
 🔥 I'm passionate about a lot of home automation technology, 3D printing, and much more 😍    
 
 ## Favorite Tech
 > Tools, languages, and other things that I like to work with.
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="https://copilot.github.com/" >
@@ -43,7 +39,7 @@ Hi there 👋
 
 ## Tech I use
 > All other technologies that I use.
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="https://nodejs.org/en/" >
@@ -85,13 +81,25 @@ Hi there 👋
       <img src="./img/html5.svg" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="https://www.php.net/" >
         <img src="./img/php.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
+    </td>
+  </tr>
+  <tr>
+    <td align="center"  width="96">
+      <a href="https://www.mongodb.com/">
+        <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center"  width="96">
+      <a href="https://www.mysql.com/">
+        <img src="./img/mysql.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
     </td>
     <td align="center" width="96">
       <img src="./img/c.svg" width="48" height="48" alt="C" />
@@ -129,18 +137,6 @@ Hi there 👋
     </td>
   </tr>
   <tr>
-    <td align="center"  width="96">
-      <a href="https://www.mysql.com/">
-        <img src="./img/mysql.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center"  width="96">
-      <a href="https://www.mongodb.com/">
-        <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
     <td align="center" width="96"> 
       <a href="https://www.docker.com/" >
         <img src="./img/docker.svg" width="48" height="48" alt="Docker" />
@@ -169,16 +165,41 @@ Hi there 👋
       </a>
       <br>Arduino
     </td>
+    <td align="center"  width="96">
+      <a href="https://www.blender.org/">
+        <img src="./img/blender.ico" width="48" height="48" alt="Blender" />
+      </a>
+      <br>Blender
+    </td>
+    <td align="center"  width="96">
+      <a href="https://ultimaker.com/fr">
+        <img src="./img/cura.png" width="48" height="48" alt="Ultimaker" />
+      </a>
+      <br>Cura
+    </td>
+    <td align="center"  width="96">
+      <a href="https://www.creality3dofficial.eu/">
+        <img src="./img/ender.png" width="48" height="48" alt="Creality" />
+      </a>
+      <br>Ender 3
+    </td>
+  </tr>
+  <tr align="center">
   </tr>
 </table>   
 
 <br>
-<br>    
+
+<p align="center">
+    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&title_color=fff&text_color=9f9f9f&bg_color=181818&border_color=0055CC" alt="Top Langs" />
+</p>
 
 <p align="center">
     <img align="center"  src="https://github-readme-stats.vercel.app/api/?username=sylvjalb&show_icons=true&title_color=fff&icon_color=0055CC&text_color=9f9f9f&bg_color=181818&border_color=0055CC&hide=contribs,issues" alt="Sylvain Jalbert Stats" />
 </p>
 
-<p align="center">
-    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&title_color=fff&text_color=9f9f9f&bg_color=181818&border_color=0055CC" alt="Top Langs" />
-</p>
+<style>
+td, th {
+   border: none!important;
+}
+</style>
