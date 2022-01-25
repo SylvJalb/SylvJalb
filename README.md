@@ -38,7 +38,7 @@ Hi there 👋 I'm Sylvain Jalbert
 </table>
 
 ## Tech I use
-> All other technologies that I use.
+> Some other technologies that I use.
 
 <table align="center">
   <tr>
