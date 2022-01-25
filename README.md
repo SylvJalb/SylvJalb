@@ -1,4 +1,10 @@
-## Hi there 👋 I'm Sylvain Jalbert
+<h1 align="center">
+Hi there 👋
+</h1>
+<h2 align="center">
+👋 I'm Sylvain Jalbert
+</h2>
+
 
 🎓 I'm a French developer and I will be graduating from engineering school this year.    
 💻 I work on projects in multiple fields: AI, Web Development (fullstack), Robotics, Electronics...      
@@ -164,7 +170,15 @@
       <br>Arduino
     </td>
   </tr>
-</table>
+</table>   
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api/?username=sylvjalb&show_icons=true&title_color=fff&icon_color=0055CC&text_color=9f9f9f&bg_color=181818&border_color=0055CC&hide=contribs,issues" alt="Sylvain Jalbert Stats" />
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&title_color=fff&text_color=9f9f9f&bg_color=181818&border_color=0055CC" alt="Top Langs" />
+<br>
+<br>    
+
+<p align="center">
+    <img align="center"  src="https://github-readme-stats.vercel.app/api/?username=sylvjalb&show_icons=true&title_color=fff&icon_color=0055CC&text_color=9f9f9f&bg_color=181818&border_color=0055CC&hide=contribs,issues" alt="Sylvain Jalbert Stats" />
+</p>
+
+<p align="center">
+    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&title_color=fff&text_color=9f9f9f&bg_color=181818&border_color=0055CC" alt="Top Langs" />
+</p>
