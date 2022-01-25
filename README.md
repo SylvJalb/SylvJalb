@@ -39,6 +39,7 @@ Hi there 👋 I'm Sylvain Jalbert
 
 ## Tech I use
 > All other technologies that I use.
+
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -157,7 +158,7 @@ Hi there 👋 I'm Sylvain Jalbert
       <a href="https://www.raspberrypi.com/">
         <img src="./img/raspberry-pi.svg" width="48" height="48" alt="Raspberry pi" />
       </a>
-      <br>Raspberry pi
+      <br>RaspberryPi
     </td>
     <td align="center"  width="96">
       <a href="https://www.arduino.cc/">
@@ -184,11 +185,9 @@ Hi there 👋 I'm Sylvain Jalbert
       <br>Ender 3
     </td>
   </tr>
-  <tr align="center">
-  </tr>
-</table>   
+</table>
 
-<br>
+</br>
 
 <p align="center">
     <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&title_color=fff&text_color=9f9f9f&bg_color=181818&border_color=0055CC" alt="Top Langs" />
