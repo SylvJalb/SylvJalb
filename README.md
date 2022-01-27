@@ -4,8 +4,8 @@ Hi there 👋 I'm Sylvain Jalbert
 
 🎓 I will be graduating from my engineering school this year.    
 💻 I work on projects in several fields: AI, Web Development (fullstack), Robotics, Electronics...      
-🔥 I'm passionate about a lot of home automation technology, 3D printing, and much more 😍    
-
+🔥 I'm passionate about a lot of home automation technology, 3D printing, and much more 😍  
+  
 ## Favorite Tech
 > Tools, languages, and other things that I like to work with.
 <table align="center">
@@ -197,3 +197,9 @@ Hi there 👋 I'm Sylvain Jalbert
 <p align="center">
     <img align="center"  src="https://github-readme-stats.vercel.app/api/?username=sylvjalb&show_icons=true&count_private=true&title_color=fff&icon_color=0055CC&text_color=9f9f9f&bg_color=181818&border_color=0055CC&hide=contribs,issues" alt="Sylvain Jalbert Stats" />
 </p>
+
+## A random joke ( ͡° ͜ʖ ͡°)
+
+<p align="center">
+  <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23181818&borderColor=%230055CC&qColor=%23FFF&textColor=%23FFF" alt="Jokes Card" />
+<p>
