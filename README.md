@@ -187,7 +187,8 @@ Hi there 👋 I'm Sylvain Jalbert
   </tr>
 </table>
 
-</br>
+## Stats
+> Some statistics about my work
 
 <p align="center">
     <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&title_color=fff&text_color=9f9f9f&bg_color=181818&border_color=0055CC" alt="Top Langs" />
