@@ -194,5 +194,5 @@ Hi there 👋 I'm Sylvain Jalbert
 </p>
 
 <p align="center">
-    <img align="center"  src="https://github-readme-stats.vercel.app/api/?username=sylvjalb&show_icons=true&title_color=fff&icon_color=0055CC&text_color=9f9f9f&bg_color=181818&border_color=0055CC&hide=contribs,issues" alt="Sylvain Jalbert Stats" />
+    <img align="center"  src="https://github-readme-stats.vercel.app/api/?username=sylvjalb&show_icons=true&count_private=true&title_color=fff&icon_color=0055CC&text_color=9f9f9f&bg_color=181818&border_color=0055CC&hide=contribs,issues" alt="Sylvain Jalbert Stats" />
 </p>
