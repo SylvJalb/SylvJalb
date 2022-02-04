@@ -192,7 +192,7 @@ Hi there 👋 I'm Sylvain Jalbert
 > Some statistics about my work
 
 <p align="center">
-    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvjalb&count_private=true&title_color=fff&text_color=9f9f9f&bg_color=181818&border_color=0055CC&layout=compact&langs_count=10&custom_title=Languages%20In%20My%20Public%20Code" alt="Top Langs" />
+    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvjalb&count_private=true&title_color=fff&text_color=9f9f9f&bg_color=181818&border_color=0055CC&layout=compact&langs_count=10&custom_title=Languages%20In%20My%20Public%20Codes" alt="Top Langs" />
 </p>
 
 <p align="center">
