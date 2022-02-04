@@ -8,6 +8,7 @@ Hi there 👋 I'm Sylvain Jalbert
   
 ## Favorite Tech
 > Tools, languages, and other things that I like to work with.
+
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -191,11 +192,11 @@ Hi there 👋 I'm Sylvain Jalbert
 > Some statistics about my work
 
 <p align="center">
-    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&title_color=fff&text_color=9f9f9f&bg_color=181818&border_color=0055CC" alt="Top Langs" />
+    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvjalb&count_private=true&title_color=fff&text_color=9f9f9f&bg_color=181818&border_color=0055CC&layout=compact&langs_count=10&custom_title=Languages%20In%20My%20Public%20Code" alt="Top Langs" />
 </p>
 
 <p align="center">
-    <img align="center"  src="https://github-readme-stats.vercel.app/api/?username=sylvjalb&show_icons=true&count_private=true&title_color=fff&icon_color=0055CC&text_color=9f9f9f&bg_color=181818&border_color=0055CC&hide=contribs,issues" alt="Sylvain Jalbert Stats" />
+    <img align="center"  src="https://github-readme-stats.vercel.app/api/?username=sylvjalb&show_icons=true&count_private=true&title_color=fff&icon_color=0055CC&text_color=9f9f9f&bg_color=181818&border_color=0055CC&hide=contribs,issues&custom_title=My%20GitHub%20Stats" alt="Sylvain Jalbert Stats" />
 </p>
 
 ## A random joke ( ͡° ͜ʖ ͡°)
