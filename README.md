@@ -2,7 +2,7 @@
 Hi there 👋 I'm Sylvain Jalbert
 </h1>
 
-🎓 I will be graduating from my engineering school this year.    
+🎓 I am an IT engineer, specialized in Artificial Intelligence.    
 💻 I work on projects in several fields: AI, Web Development (fullstack), Robotics, Electronics...      
 🔥 I'm passionate about a lot of home automation technology, 3D printing, and much more 😍  
   
