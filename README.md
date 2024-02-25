@@ -7,8 +7,7 @@ Hi there 👋 I'm Sylvain Jalbert
 💻 When I'm not working, I realize projects in several fields: AI, Computer Vision, Robotics, ...      
 🔥 I'm also passionate about a lot of home automation technology, 3D printing, and much more 😍  
   
-## Favorite Tech
-> Tools, languages, and other things that I like to work with.
+## My work environment
 
 <table align="center">
   <tr>
