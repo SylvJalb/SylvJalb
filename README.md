@@ -2,9 +2,10 @@
 Hi there 👋 I'm Sylvain Jalbert
 </h1>
 
-🎓 I am an IT engineer, specialized in Artificial Intelligence.    
-💻 I work on projects in several fields: AI, Web Development (fullstack), Robotics, Electronics...      
-🔥 I'm passionate about a lot of home automation technology, 3D printing, and much more 😍  
+🎓 I'm an IT engineer, specialized in Artificial Intelligence.    
+💼 I work in automatic video surveillance, powered by AI.     
+💻 When I'm not working, I realize projects in several fields: AI, Computer Vision, Robotics, ...      
+🔥 I'm also passionate about a lot of home automation technology, 3D printing, and much more 😍  
   
 ## Favorite Tech
 > Tools, languages, and other things that I like to work with.
